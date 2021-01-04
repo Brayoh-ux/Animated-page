@@ -88,7 +88,6 @@ body, button{
 header{
     min-height: 100vh;
     width: 100%;
-    background: url("/img/images.jpeg") no-repeat top center / cover;
     position: relative;
 }
 .overlay{
@@ -97,7 +96,7 @@ header{
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(43, 51, 59, .8);
+    background-color: rgba(43, 51, 59, 0.411);
     display: flex;
     justify-content: center;
     align-items: center;
